@@ -1,0 +1,13 @@
+body {
+  padding: 50px 0px;
+  z-index: 0;
+  background-color:#9DC88D;
+}
+.heading{
+  background:#164A41;
+  color:white;
+}
+
+.cardmar{
+  padding: 3px;
+}
